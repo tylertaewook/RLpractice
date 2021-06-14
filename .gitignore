@@ -93,3 +93,4 @@ ENV/
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
+.DS_Store
