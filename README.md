@@ -1,7 +1,7 @@
 ### Overview
 
-This repository provides code, exercises and solutions for popular Reinforcement Learning algorithms. These are meant to serve as a learning tool to complement the theoretical materials from
-
+This repository provides code, exercises and implementations of popular Reinforcement Learning Algorithms.
+I compiled this repo from different resources listed below to complement my learning with:
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
 - [David Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
@@ -56,6 +56,26 @@ Each folder in corresponds to one or more chapters of the above textbook and/or 
 │   ├── Tutorial_Tensors.ipynb ✅
 ├── README.md
 ```
+
+### Resources
+
+RL
+- [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning/)
+- [fg91/Deep-Q-Learning](https://github.com/fg91/Deep-Q-Learning)
+
+PyTorch
+- [Yangyangii/pytorch-practice](https://github.com/Yangyangii/pytorch-practice/)
+- [vahidk/EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch)
+- [Official Pytorch Tutorials](https://pytorch.org/tutorials/)
+
+Master resource: https://github.com/ritchieng/the-incredible-pytorch#Tutorials
+
+Fundamental concepts of PyTorch: https://github.com/jcjohnson/pytorch-examples
+
+Minimal tutorial (no comments): https://github.com/vinhkhuc/PyTorch-Mini-Tutorials
+
+After official pytorch tutorial: https://github.com/yunjey/pytorch-tutorial
+
 
 ### List of Implemented Algorithms
 
