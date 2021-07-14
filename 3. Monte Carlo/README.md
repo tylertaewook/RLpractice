@@ -38,10 +38,10 @@
 ### Exercises
 
 - Get familiar with the [Blackjack environment (Blackjack-v0)](Blackjack%20Playground.ipynb)
-- Implement the Monte Carlo Prediction to estimate state-action values
+- Implement the Monte Carlo Prediction to estimate value functions(`V(s)`)
   - [Exercise](MC%20Prediction.ipynb)
 
-- Implement the on-policy first-visit Monte Carlo Control algorithm
+- Implement the on-policy first-visit Monte Carlo Control algorithm; estimates state-value functions(`Q(s,a)`)
   - [Exercise](MC%20Control%20with%20Epsilon-Greedy%20Policies.ipynb)
 
 - Implement the off-policy every-visit Monte Carlo Control using Weighted Important Sampling algorithm
