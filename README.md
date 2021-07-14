@@ -8,7 +8,7 @@ I compiled this repo from different resources listed below to complement my lear
 Each folder in corresponds to one or more chapters of the above textbook and/or course. In addition to exercises and solution, each folder also contains a list of learning goals, a brief concept summary, and links to the relevant readings.
 
 ```bash
-.
+tylertaewook/RLpractice
 ├── 1. MDP
 │   └── gym_test.py ✅
 ├── 2. Dynamic Programming
