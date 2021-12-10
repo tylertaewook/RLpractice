@@ -10,12 +10,12 @@ Each folder in corresponds to one or more chapters of the above textbook and/or 
 ```bash
 tylertaewook/RLpractice
 ├── 1. MDP
-│   └── gym_test.py ✅
+│   └── gym_test.py 
 ├── 2. Dynamic Programming
-│   ├── Gamblers Problem.ipynb ✅
-│   ├── Policy Evaluation.ipynb ✅
-│   ├── Policy Iteration.ipynb ✅
-│   └── Value Iteration.ipynb ✅
+│   ├── Gamblers Problem.ipynb 
+│   ├── Policy Evaluation.ipynb 
+│   ├── Policy Iteration.ipynb 
+│   └── Value Iteration.ipynb 
 ├── 3. Monte Carlo
 │   ├── Blackjack Playground.ipynb
 │   ├── MC Control with Epsilon-Greedy Policies.ipynb
@@ -46,14 +46,14 @@ tylertaewook/RLpractice
 │   ├── CNN.ipynb
 │   ├── DNN.ipynb
 │   ├── GAN.ipynb
-│   ├── PyTorch Tutorial.ipynb ✅
-│   ├── Tutorial_Autograd.ipynb ✅
-│   ├── Tutorial_DQN.ipynb ✅
-│   ├── Tutorial_Dataloader.ipynb ✅
-│   ├── Tutorial_Model.ipynb ✅
-│   ├── Tutorial_Optimization SaveLoading model.ipynb ✅
-│   ├── Tutorial_Savemodel.ipynb ✅
-│   ├── Tutorial_Tensors.ipynb ✅
+│   ├── PyTorch Tutorial.ipynb 
+│   ├── Tutorial_Autograd.ipynb 
+│   ├── Tutorial_DQN.ipynb 
+│   ├── Tutorial_Dataloader.ipynb 
+│   ├── Tutorial_Model.ipynb 
+│   ├── Tutorial_Optimization SaveLoading model.ipynb 
+│   ├── Tutorial_Savemodel.ipynb 
+│   ├── Tutorial_Tensors.ipynb 
 ├── README.md
 ```
 
